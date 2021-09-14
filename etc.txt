@@ -1,0 +1,7 @@
+
+git start!!
+command line
+    git init -저장소만들기
+
+        브랜치 main
+    git status -현재상태 확인
